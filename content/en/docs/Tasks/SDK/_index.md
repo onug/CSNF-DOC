@@ -1,7 +1,7 @@
 
 ---
-title: "Working with Ponycopters"
-linkTitle: "Working with Ponycopters"
+title: "Working with the CSNF SDK"
+linkTitle: "Working with the CSNF SDK"
 date: 2017-01-05
 description: >
   A short lead description about this section page. Text here can also be **bold** or _italic_ and can even be split over multiple paragraphs.
