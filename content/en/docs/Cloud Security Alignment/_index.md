@@ -200,9 +200,10 @@ Activity path - get alert -> validate whether false positive / true -> assess im
 
 **Event time**
 
+```json
 {
 
-> "outcome": "success",
+"outcome": "success",
 
 "typeURI": "http://schemas.dmtf.org/cloud/audit/1.0/event",
 
@@ -2055,5 +2056,6 @@ Appendix
 "vulnerabilityStates": []
 
 }
+```
 
 
