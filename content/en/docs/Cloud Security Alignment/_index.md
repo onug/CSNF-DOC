@@ -9,7 +9,7 @@ description: >
 IMPORTANT:  
 At this juncture, edits to this doc are restricted to Preeti Krishna, Peter Campbell, Jenn Slawson, and Michael Thomas Clark.
 
-# ONUG – Cloud Security Alignment
+___
 
 The [ONUG](https://www.onug.net/) Automated Cloud Governance Working Group has started on a journey to make it easier to consume cloud data shared by different providers in the industry from a security perspective. Refer to the "ONUG Collaborative Problem Statement and Desired Outcome" (Sep 30, '20) document for the problem statement and ONUG goals.
 
