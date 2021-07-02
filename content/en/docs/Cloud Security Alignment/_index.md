@@ -71,6 +71,7 @@ Security-significant information in scope for this work falls into few major typ
    - Time stamp
    - Subscription(s) and Resource(s) information
    - Possible NIST 800-53 mappings
+   -
 3. **Security State information**
    
    Provider: Security State information describes essential security policies and configurations of the system. For e.g., which ports are open to the internet, whether AV is running on specific node(s), system lockdown applied to IaaS VM(s) etc. These are produced by security solutions that track security posture and manage configurations and policies.
@@ -180,8 +181,6 @@ Activity path - get alert -> validate whether false positive / true -> assess im
 
 **More information link:**
 
-# ADD "PREVIEW - SUSPICIOUS MGMT SESSION IMAGE
-
 **Example 2** - Activity insights security alert
 
 **Provider:** IBM
@@ -195,6 +194,8 @@ Activity path - get alert -> validate whether false positive / true -> assess im
 **Trigger / Suspicious action:**
 
 **Event time**
+
+**JSON CODE BLOCK**
 
 ```json
 {
