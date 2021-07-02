@@ -7,7 +7,7 @@ description: >
 ---
 
 IMPORTANT:  
-At this juncture, edits to this doc are restricted to Preeti Krishna, Peter Campbell, Jenn Slawson, and Michael Thomas Clark.
+At this juncture, edits to this doc are restricted to Working Group Members Preeti Krishna, Peter Campbell, Jenn Slawson, and Michael Thomas Clark.
 
 ___
 
