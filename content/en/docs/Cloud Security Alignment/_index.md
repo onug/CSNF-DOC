@@ -3,15 +3,11 @@ title: "Cloud Security Alignment Document"
 linkTitle: "Cloud Security Alignment Document"
 weight: 4
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it? 
+  The following document is a work-in-progress by the ONUG CSNF Working Group. It lays out the Cloud Security Notification Framework, our Canonical Dictionary, and explains our "Decorator" concept. These sections may be abstracted out into separate documents as we go forward with the project.
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-IMPORTANT: Document conversion WIP.  
-Only Michael and Jenn should edit at this time.
+IMPORTANT:  
+At this juncture, edits to this doc are restricted to Preeti Krishna, Peter Campbell, Jenn Slawson, and Michael Thomas Clark.
 
 # ONUG – Cloud Security Alignment
 
