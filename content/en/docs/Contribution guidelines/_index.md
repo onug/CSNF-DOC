@@ -61,7 +61,7 @@ If you want to run your own local Hugo server to preview your changes as you wor
 1. Fork the [CSNF repo](https://github.com/pcampbe/csnf-doc) repo into your own project, then create a local copy using `git clone`. Don’t forget to use `--recurse-submodules` or you won’t pull down some of the code you need to generate a working site.
 
     ```
-    git clone --recurse-submodules --depth 1 https://github.com/pcampbe/csnf-doc.git
+    git clone --recurse-submodules --depth 1 https://github.com/onug/CSNF-DOC.git
     ```
 
 1. Run `hugo server` in the site root directory. By default your site will be available at http://localhost:1313/. Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
