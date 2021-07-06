@@ -17,6 +17,6 @@ Please watch this video for an introduction to the Cloud Security Notification F
 
 Give your users next steps from the Overview. For example:
 
-* [Getting Started](/docs/getting-started/): Get started with $project
-* [Examples](/docs/examples/): Check out some example $project code!
-* [CSNF Community Page](/community/): Join the $project Community!
+* [Getting Started](/docs/getting-started/): Get started with CSNF
+* [Examples](/docs/examples/): Check out some example CSNF code!
+* [CSNF Community Page](/community/): Join the CSNF Community!
