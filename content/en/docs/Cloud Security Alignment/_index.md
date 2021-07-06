@@ -5,10 +5,10 @@ weight: 4
 description: >
   The following document is a work-in-progress by the ONUG CSNF Working Group. It lays out the Cloud Security Notification Framework, our Canonical Dictionary, and explains our "Decorator" concept. These sections may be abstracted out into separate documents as we go forward with the project.
 ---
-
+{{% pageinfo %}}
 IMPORTANT:  
 At this juncture, edits to this doc are restricted to Working Group Members Preeti Krishna, Peter Campbell, Jenn Slawson, and Michael Thomas Clark.
-
+{{% /pageinfo %}}
 ___
 
 The [ONUG](https://www.onug.net/) Automated Cloud Governance Working Group has started on a journey to make it easier to consume cloud data shared by different providers in the industry from a security perspective. Refer to the "ONUG Collaborative Problem Statement and Desired Outcome" (Sep 30, '20) document for the problem statement and ONUG goals.
