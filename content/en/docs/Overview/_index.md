@@ -3,7 +3,7 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  This is an overview of the Cloud Security Notification Framework (CSNF).
+## This is an overview of the Cloud Security Notification Framework (CSNF).
 ---
 
 {{% pageinfo %}}
