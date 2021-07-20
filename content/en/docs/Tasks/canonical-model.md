@@ -118,6 +118,3 @@ The decorator type allows additional context to be added to an individual event 
 | Custom1 | .decorator |                                                              |
 | Custom2 | .decorator | |
 
-```
-ONUG Cloud Security Notification Framework
-```
