@@ -20,18 +20,28 @@ The CSNF decorator provides context awareness for security events in terms of ri
 
 The decorator type allows additional context to be added to an individual event from a trusted source without mutating the base event.  There can be multiple decorators applied to the base event. The combination of standardized security events along with correlated knowledge and analytics processing provide new capabilities for the organizations security team to develop and apply fine-grained secuirty policy based on contextual awareness that was previously unknown.
 
-### Decorators
+## Decorator Detail
 
-|  Element   |  Namespace  | Description |
-| ------------- | ---------- | ------------- |
-|References|.decorator|  |
-|Compliance|.decorator|  |
-| Risk                  | .decorator |                                                              |
-| Data Classification   | .decorator |                                                              |
-| Behavior              | .decorator |                                                              |
-| Vulnerability         | .decorator |                                                              |
-| Threat                | .decorator |                                                              |
-| Custom1 | .decorator |                                                              |
-| Custom2 | .decorator | |
+### Threat
 
+### Compliance
 
+### Risk
+
+### Business Context
+
+### Asset Value
+
+### Criticaltiy
+
+### Identity
+
+### Service Profile
+
+### Data Classification
+
+### Behaviour
+
+### Vunlerability
+
+### Custom Decorators
