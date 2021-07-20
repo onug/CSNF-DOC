@@ -3,7 +3,7 @@ title: "Canonical Data Model"
 date: 2017-01-05
 weight: 2
 description: >
-  Purpose: Description of the CSNF Decorator and Canonical Data Model
+## Purpose: Description of the CSNF Decorator and Canonical Data Model
 ---
 
 {{% pageinfo %}}
