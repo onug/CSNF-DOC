@@ -2,12 +2,11 @@
 title: "CSNF Decorators"
 date: 2021-07-20
 weight: 4
-description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+description: "Overview of the CSNF Decorator"
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+**csnf.decorator**
 {{% /pageinfo %}}
 
 
