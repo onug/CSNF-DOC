@@ -16,7 +16,7 @@ What is the Cloud Security Notification Framework (CSNF)? CSNF is an Open Source
 
 CSNF defines a common vocabulary and decorator pattern that can be used to reduce toil, drive consistency and allow enterprises to apply a context-aware approach to security by corellating and acting upon security events across multiple providers at scale. 
 
-### **CSNF Namespaces**
+### CSNF Namespaces
 
 The CSNF namespaces are used to help categorize and standardize events across multiple providers. The namespace  provides a high level categorization for event data, so that customers can better analyze, visualize, and correlate the data represented in their events.
 
