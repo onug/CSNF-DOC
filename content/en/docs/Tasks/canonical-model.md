@@ -1,6 +1,6 @@
 ---
 title: "Canonical Data Model"
-date: 2017-01-05
+date: 2021-07-20
 weight: 2
 description: Overview of the Canonical Data Model
 ---
@@ -119,5 +119,5 @@ The decorator type allows additional context to be added to an individual event 
 | Custom2 | .decorator | |
 
 ```
-This is the final element on the page and there should be no margin below this.
+ONUG Cloud Security Notification Framework
 ```
