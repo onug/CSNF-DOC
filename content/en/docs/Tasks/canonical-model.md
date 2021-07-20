@@ -3,14 +3,13 @@ title: "Canonical Data Model"
 date: 2017-01-05
 weight: 2
 description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  Purpose: Description of the CSNF Decorator and Canonical Data Model
 ---
 
 {{% pageinfo %}}
-This is a placeholder page. Replace it with your own content.
+## **csnf.common.types**
 {{% /pageinfo %}}
 
-## **csnf.common.types**
 
 ### Overview
 
