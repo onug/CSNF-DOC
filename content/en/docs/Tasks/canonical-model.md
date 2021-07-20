@@ -20,7 +20,7 @@ CSNF defines a common vocabulary and decorator pattern that can be used to reduc
 
 The CSNF namespaces are used to help categorize and standardize events across multiple providers. The namespace  provides a high level categorization for event data, so that customers can better analyze, visualize, and correlate the data represented in their events.
 
-CSNF improvements are released following [Semantic Versioning](https://semver.org/). Major CSNF releases occur twice annually.
+CSNF improvements are released following [Semantic Versioning](https://semver.org/).
 
 ### Provider
 
