@@ -1,5 +1,5 @@
 ---
-title: "Getting Started" - REMOVE BOILERPLATE, REPLACE WITH 'REAL' GETTING STARTED SECTION
+title: "Getting Started"
 linkTitle: "Getting Started"
 weight: 2
 description: >
@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+This is a placeholder page that shows you how to use this template site.  - REMOVE BOILERPLATE, REPLACE WITH 'REAL' GETTING STARTED SECTION
 {{% /pageinfo %}}
 
 Information in this section helps your user try your project themselves.
