@@ -1,5 +1,5 @@
 ---
-title: "CSNF Demo Setup"
+title: "CSNF Demo Setup (when can we add the demo to git?)"
 date: 2017-01-05
 weight: 4
 description: >
