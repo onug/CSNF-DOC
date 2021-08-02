@@ -1,5 +1,5 @@
 ---
-title: "Getting Started"
+title: "Getting Started" - REMOVE BOILERPLATE, REPLACE WITH 'REAL' GETTING STARTED SECTION
 linkTitle: "Getting Started"
 weight: 2
 description: >
