@@ -1,6 +1,7 @@
 ---
 title: "Canonical Data Model"
 date: 2021-07-20
+update: 2021-08-19
 weight: 2
 description: Canonical Data Model
 ---
@@ -42,21 +43,21 @@ Note: A security event is an observable occurrence that could affect your securi
 
 |  Element      |  Namespace  | Description |
 | ------------- | ----------  | ------------- |
-| Guid          | .event |  |
-| Time          | .event |  |
-| Region        | .event |  |
-| Severity      | .event |  |
-| State         | .event |  |
-| URL           | .event |  |
-| Name          | .event |  |
-| Short Description | .event |  |
-| Long Description | .event |  |
-| Additional Properties | .event |  |
+| Guid          | .event |  Identifier |
+| Time          | .event | Time - The Timestamp type represents date and time information using ISO 8601 format and is always in UTC time. For example, midnight UTC on Jan 1, 2014 is 2014-01-01T00:00:00Z.  |
+| Region        | .event | (optional) Geolocation includes country, state, city, zip and latitude, longitude information |
+| Severity      | .event | Event severity set by the provider  |
+| State         | .event | (optional) Event state whether active or resolved |
+| URL           | .event | Direct URL link to the event for details |
+| Name          | .event | Name of event |
+| Short Description | .event | (optional) Brief description of event  |
+| Long Description | .event | (optional) Detailed description of event  |
+| Additional Properties | .event | (optional) Key-Value pairs or property bag for additional missing but critical event properties |
 | Event name | .event | Name of event |
-|Event identifier |.event | id of the event |
-|Event start time |.event | time when event occurred |
-|Event end time|.event| (optional)  time when event ended |
-|Event type |.event | enum of type - for e.g. Threat, WAF, etc. for security namespace |
+|Event identifier |.event | Identifier of the event |
+|Event start time |.event | Time at which the event ocurred. The Timestamp type represents date and time information using ISO 8601 format and is always in UTC time. For example, midnight UTC on Jan 1, 2014 is 2014-01-01T00:00:00Z. |
+|Event end time|.event| (optional)  Time at which the event ended. The Timestamp type represents date and time information using ISO 8601 format and is always in UTC time. For example, midnight UTC on Jan 1, 2014 is 2014-01-01T00:00:00Z. |
+|Event type |.event | Enumeration of Event type - for e.g., Threat, WAF, etc. for security namespace |
 
 ### Resource
 
@@ -65,14 +66,14 @@ A resource types describes the resources that the finding refers to.
 
 |  Element   |  Namespace  | Description |
 | ------------- | ---------- | ------------- |
-|Guid |.resource | (optional) |
-|Type |.resource |  |
-|Name |.resource |  |
-|Region |.resource |  |
-|Zone |.resource |  |
-|Criticality |.resource | |
-|Severity |.resource | |
-|Additional Properties |.resource |  |
+|Guid |.resource | (optional) Resource identifier |
+|Type |.resource | (optional) Resource type |
+|Name |.resource | (optional) Resource name  |
+|Region |.resource | (optional) Resource geolocation includes country, state, city, zip and latitude, longitude information |
+|Zone |.resource | (optional) Resource zone |
+|Criticality |.resource | (optional) If the resource is critcial or not |
+|Severity |.resource | (optional) Resource severity |
+|Additional Properties |.resource | (optional) Key-Value pairs or property bag for additional missing but critical event properties  |
 
 ### Service
 
@@ -80,12 +81,12 @@ The service type describes the service for or from which the data was collected.
 
 |  Element   |  Namespace  | Description |
 | ------------- | ---------- | ------------- |
-|Guid |.service | (optional) |
-|Type |.service |  |
-|Name |.service |  |
-|Region |.service |  |
-|Zone |.service |  |
-|Additional Properties |.service |  |
+|Guid |.service | (optional) Service identifier |
+|Type |.service | (optional) Service type |
+|Name |.service | (optional) Service name |
+|Region |.service | (optional) Service geolocation includes country, state, city, zip and latitude, longitude information |
+|Zone |.service | (optional) Service zone |
+|Additional Properties |.service | (optional) Key-Value pairs or property bag for additional missing but critical event properties |
 
 ### Threat Actor
 
@@ -94,10 +95,10 @@ The threat actor is the entity that initiated the event
 
 |  Element   |  Namespace  | Description |
 | ------------- | ---------- | ------------- |
-|Guid|.threatactor|  |
-|Type|.threatactor|  |
-|Name|.threatactor|  |
-|Additional Properties|.threatactor|  |
+|Guid|.threatactor| (optional) Threat actor identifier |
+|Type|.threatactor| (optional) Threat actor type |
+|Name|.threatactor| (optional) Threat actor name |
+|Additional Properties|.threatactor| (optional) Key-Value pairs or property bag for additional missing but critical event properties |
 
 ### Decorator
 
@@ -108,13 +109,13 @@ The decorator type allows additional context to be added to an individual event 
 
 |  Element   |  Namespace  | Description |
 | ------------- | ---------- | ------------- |
-|References|.decorator|  |
-|Compliance|.decorator|  |
-| Risk                  | .decorator |                                                              |
-| Data Classification   | .decorator |                                                              |
-| Behavior              | .decorator |                                                              |
-| Vulnerability         | .decorator |                                                              |
-| Threat                | .decorator |                                                              |
-| Custom1 | .decorator |                                                              |
-| Custom2 | .decorator | |
+|References|.decorator| (optional) The source of enrichment information |
+|Compliance|.decorator| (optional) Compliance status of enrichment source? |
+| Risk                  | .decorator |   (optional) Risk of the event                                                         |
+| Data Classification   | .decorator |   (optional) Event classification                                                     |
+| Behavior              | .decorator |   (optional) Behavior of entity associated with the event                                                         |
+| Vulnerability         | .decorator |   (optional) Vulnerability information pertaining to the event                                                         |
+| Threat                | .decorator |   (optional) Threat information pertaining to the event                                                        |
+| Custom1 | .decorator |  (optional)  Additional custom information pertaining to the event                                                         |
+| Custom2 | .decorator | (optional) Additional custom information pertaining to the event  |
 
