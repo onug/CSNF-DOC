@@ -9,7 +9,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site. - REMOVE 'PLACEHOLDER' TEXT - ARTICULATE CSNF DOCUMENTATION APPROACH, RESOURCES, LOCATIONS...
+START WITH THE VIDEO !!
 {{% /pageinfo %}}
 
 
