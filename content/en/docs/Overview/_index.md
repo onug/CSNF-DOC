@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-Please watch this video for an introduction to the Cloud Security Notification Framwork
+Please watch this video for an introduction to the Cloud Security Notification Framework
 {{% /pageinfo %}}
 
 {{< youtube id="qcfjnMT2Jdw" title="CSNF in Three Minutes!" >}}
