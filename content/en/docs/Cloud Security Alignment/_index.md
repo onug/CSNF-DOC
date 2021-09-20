@@ -3,17 +3,10 @@ title: "Cloud Security Notification Framework Specification"
 linkTitle: "CSNF Specification"
 weight: 4
 description: >
-  This section describes the work-in-progress effort that constitues the ONUG Cloud Security Notification Framework. It lays out the project's Canonical Data Model, and explains the key "Decorator" concept.
+  This section and those that follow lay out the specifications for the ONUG Cloud Security Notification Framework that was established in the Winter and Spring of 2021. It addresses the CSNF project's Scope and Use Cases, describes both the Provider and Consumer Experiences, introduces the Canonical Data Model, and explains the key "Decorator" concept.
 ---
-{{% pageinfo %}}
-IMPORTANT:  
-At this juncture, edits to this doc are restricted to Working Group Members Preeti Krishna, Peter Campbell, Jenn Slawson, and Michael Thomas Clark.
-{{% /pageinfo %}}
-___
 
 The [ONUG](https://www.onug.net/) Automated Cloud Governance Working Group has started on a journey to make it easier to consume cloud data shared by different providers in the industry from a security perspective. Refer to the "ONUG Collaborative Problem Statement and Desired Outcome" (Sep 30, '20) document for the problem statement and ONUG goals.
-
-This document provides context on the key types of data of interest, expected typical data providers' and consumers experiences.
 
 ### Scope
 
