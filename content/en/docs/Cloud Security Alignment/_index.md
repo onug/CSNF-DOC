@@ -3,7 +3,7 @@ title: "Cloud Security Notification Framework Specification"
 linkTitle: "CSNF Specification"
 weight: 4
 description: >
-  The following document is a work-in-progress by the ONUG CSNF Working Group. It lays out the Cloud Security Notification Framework, our Canonical Dictionary, and explains our "Decorator" concept. These sections may be abstracted out into separate documents as we go forward with the project.
+  This section describes the work-in-progress effort that constitues the ONUG Cloud Security Notification Framework. It lays out the project's Canonical Data Model, and explains the key "Decorator" concept.
 ---
 {{% pageinfo %}}
 IMPORTANT:  
