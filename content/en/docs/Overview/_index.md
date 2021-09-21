@@ -6,6 +6,8 @@ description: >
 ## This is an overview of the Cloud Security Notification Framework (CSNF).
 ---
 
+[Ed: Preface the video below with a few sentences describing the CSNF - pull in this description from one of the Overview blurbs on the following pages.]
+
 {{% pageinfo %}}
 Please watch this video for an introduction to the Cloud Security Notification Framework
 {{% /pageinfo %}}
