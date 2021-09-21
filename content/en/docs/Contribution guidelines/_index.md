@@ -5,7 +5,7 @@ weight: 10
 description: >
   How to contribute to the CSNF Project
 ---
-Test deployment of the CLA:
+## Test deployment of the CLA:
 
 https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf
 
