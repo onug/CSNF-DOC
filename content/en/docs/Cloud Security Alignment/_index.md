@@ -5,7 +5,7 @@ weight: 4
 description: >
   This section and those that follow lay out the specifications for the ONUG Cloud Security Notification Framework that was established in the Winter and Spring of 2021. It addresses the CSNF project's Scope and Use Cases, describes both the Provider and Consumer Experiences, introduces the Canonical Data Model, and explains the key "Decorator" concept.
 ---
-
+[Ed note: Is the following necessary here? Seems better-suited for the Overview page... MTC]
 The [ONUG](https://www.onug.net/) Automated Cloud Governance Working Group has started on a journey to make it easier to consume cloud data shared by different providers in the industry from a security perspective. Refer to the "ONUG Collaborative Problem Statement and Desired Outcome" (Sep 30, '20) document for the problem statement and ONUG goals.
 
 ### Scope
