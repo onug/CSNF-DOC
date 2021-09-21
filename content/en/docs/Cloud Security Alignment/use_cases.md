@@ -6,8 +6,6 @@ description: >-
      CSNF: Use Cases
 ---
 
-## Use Cases
-
 ### Use Cases
 
 Security-significant information in scope for this work falls into few major types and use cases:
