@@ -13,7 +13,9 @@ description: Canonical Data Model
 
 ### Overview
 
-What is the Cloud Security Notification Framework (CSNF)? CSNF is an Open Source initiative tackling the difficulty of provding security assurance for Cloud at scale caused by the large volume of events and security state messaging. The problem is compounded when using multiple Cloud Service Providers (CSP’s) due to the the lack of standardized events and alerts amongst CSP’s.  
+**Ed: Do we need this Overview section on this page - or is the earlier Overview page sufficient?**
+
+What is the Cloud Security Notification Framework (CSNF)? CSNF is an Open Source initiative tackling the difficulty of providing security assurance for Cloud at scale caused by the large volume of events and security state messaging. The problem is compounded when using multiple Cloud Service Providers (CSP’s) due to the the lack of standardized events and alerts amongst CSP’s.  
 
 CSNF defines a common vocabulary and decorator pattern that can be used to reduce toil, drive consistency and allow enterprises to apply a context-aware approach to security by corellating and acting upon security events across multiple providers at scale. 
 
