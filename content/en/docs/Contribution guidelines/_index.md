@@ -1,6 +1,6 @@
 ---
-title: "Contribution Guidelines"
-linkTitle: "Contribution Guidelines"
+title: "Community Contribution Guidelines"
+linkTitle: "Community Contribution Guidelines"
 weight: 10
 description: >
   How to contribute to the CSNF Project
