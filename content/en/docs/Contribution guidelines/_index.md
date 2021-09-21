@@ -5,6 +5,15 @@ weight: 10
 description: >
   How to contribute to the CSNF Project
 ---
+Test deployment of the CLA:
+
+https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf
+
+___
+
+
+
+
 
 {{% pageinfo %}}
 These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines "as is" or adapt them with your own instructions: for example, other deployment options, information about your doc project's file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. [Kubeflow](https://github.com/kubeflow/website/blob/master/README.md) has a great example.
