@@ -1,6 +1,6 @@
 
 ---
-title: "Documentation"
+title: "CSNF Documentation Site"
 linkTitle: "Documentation"
 weight: 20
 menu:
@@ -9,19 +9,12 @@ menu:
 ---
 
 {{% pageinfo %}}
-Please watch this video for an introduction to the Cloud Security Notification Framwork
+Please watch this video to learn more about the Cloud Security Notification Framwork (CSNF)
 {{% /pageinfo %}}
 
-{{< youtube id="qcfjnMT2Jdw" title="CSNF in Three Minutes!" >}}
+{{< youtube qcfjnMT2Jdw >}}
 
 
-## Where should I go to learn more about the CSNF?
-
-Give your users next steps from the Overview. For example:
-
-* [Getting Started](/docs/getting-started/): Get started with CSNF
-* [Examples](/docs/examples/): Check out some example CSNF code!
-* [CSNF Community Page](/community/): Join the CSNF Community!
 
 
 

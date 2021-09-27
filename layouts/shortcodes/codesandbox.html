@@ -1,0 +1,23 @@
+{{ $defaultWidth := "100%" }}
+{{ $defaultHeight := "500px" }}
+
+{{ if .IsNamedParams }}
+<iframe
+  src="https://codesandbox.io/embed/{{ .Get "id" }}?codemirror=1&fontsize=13&hidenavigation=1&theme=dark&view=preview"
+  style="width:{{ with .Get "width" }}{{.}}{{ else }}100%{{ end }}; height:{{ with .Get "width" }}{{.}}{{ else }}{{ $defaultHeight }}{{ end }}; border:0; border-radius: 4px; overflow:hidden;"
+  title="{{ with .Get "title" }}{{.}}{{ else }}{{ .Get "id" }}{{ end }}"
+  allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb"
+  sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"
+  editorsize=50
+></iframe>
+{{ else }}
+<iframe
+  src="https://codesandbox.io/embed/{{ .Get 0 }}?codemirror=1&fontsize=13&hidenavigation=1&theme=dark&view=preview"
+  style="width:{{ $defaultWidth }}; height:{{ $defaultHeight }}; border:0; border-radius: 4px; overflow:hidden;"
+  title="{{ with .Get 1 }}{{.}}{{ else }}{{ .Get 0 }}{{ end }}"
+  allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb"
+  sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"
+  editorsize=50
+></iframe>
+{{ end }}
+
