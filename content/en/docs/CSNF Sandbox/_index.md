@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-Embedded Code Sandbox - Still Under Development
+Embedded Code Sandbox - Still Under Development - Looking for comments from the team
 {{% /pageinfo %}}
 
 ## Try out the CSNF in the Code Sandbox!
