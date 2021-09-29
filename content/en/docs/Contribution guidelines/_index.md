@@ -1,90 +1,134 @@
 ---
-title: "Community Contribution Guidelines"
+title: "Contributor License Agreement(CLA)"
 linkTitle: "Community Contribution Guidelines"
 weight: 10
 description: >
-  How to contribute to the CSNF Project
 ---
-## Test deployment of the CLA:
-
-https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf
-
-___
-
-
-
-
-
 {{% pageinfo %}}
-These basic sample guidelines assume that your Docsy site is deployed using Netlify and your files are stored in GitHub. You can use the guidelines "as is" or adapt them with your own instructions: for example, other deployment options, information about your doc project's file structure, project-specific review guidelines, versioning guidelines, or any other information your users might find useful when updating your site. [Kubeflow](https://github.com/kubeflow/website/blob/master/README.md) has a great example.
-
-Don't forget to link to your own doc repo rather than our example site! Also make sure users can find these guidelines from your doc repo README: either add them there and link to them from this page, add them here and link to them from the README, or include them in both locations.
+*If you would like to contribute to the CSNF please review and please print and sign the Contributor's agreement and email a copy of this Agreement to Scott Kargman at scott@onug.net*
 {{% /pageinfo %}}
+```
+ONUG Contributor License Agreement
+```
+In order to clarify the intellectual property license granted with Contributions (defined below in Section
+1 ) from any person or entity, ONUG must have a Contributor License Agreement (this “Agreement”) on
+file that has been signed by each Contributor, indicating agreement to the license terms below. This
+license is for your protection as a Contributor as well as the protection of ONUG and its users; it does not
+change your rights to use your own Contributions for any other purpose.
 
-We use [Hugo](https://gohugo.io/) to format and generate our website, the
-[Docsy](https://github.com/google/docsy) theme for styling and site structure, 
-and [Netlify](https://www.netlify.com/) to manage the deployment of the site. 
-Hugo is an open-source static site generator that provides us with templates, 
-content organisation in a standard directory structure, and a website generation 
-engine. You write the pages in Markdown (or HTML if you want), and Hugo wraps them up into a website.
+This Agreement allows an entity (the "Corporation") to submit Contributions to ONUG, to authorize
+Contributions submitted by its designated employees to ONUG, and to grant copyright and patent licenses
+thereto.
 
-All submissions, including submissions by project members, require review. We
-use GitHub pull requests for this purpose. Consult
-[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
-information on using pull requests.
+Please complete and sign this Agreement and then email a pdf file of this Agreement to Scott Kargman at
+scott@onug.net. Please read this document carefully before signing and keep a copy for your records.
 
-## Quick start with Netlify
+Corporation name: _______________________________________________________
 
-Here's a quick guide to updating the docs. It assumes you're familiar with the
-GitHub workflow and you're happy to use the automated preview of your doc
-updates:
+Corporation address: _______________________________________________________
 
-1. Fork the [CSNF repo](https://github.com/onug/CSNF-DOC) on GitHub.
-1. Make your changes and send a pull request (PR).
-1. If you're not yet ready for a review, add "WIP" to the PR name to indicate 
-  it's a work in progress. (**Don't** add the Hugo property 
-  "draft = true" to the page front matter, because that prevents the 
-  auto-deployment of the content preview described in the next point.)
-1. Wait for the automated PR workflow to do some checks. When it's ready,
-  you should see a comment like this: **deploy/netlify — Deploy preview ready!**
-1. Click **Details** to the right of "Deploy preview ready" to see a preview
-  of your updates.
-1. Continue updating your doc and pushing your changes until you're happy with 
-  the content.
-1. When you're ready for a review, add a comment to the PR, and remove any
-  "WIP" markers.
+Point of Contact: _______________________________________________________
 
-## Updating a single page
+E-Mail: _______________________________________________________
 
-If you've just spotted something you'd like to change while using the docs, Docsy has a shortcut for you:
+Telephone: _______________________________________________________
 
-1. Click **Edit this page** in the top right hand corner of the page.
-1. If you don't already have an up to date fork of the project repo, you are prompted to get one - click **Fork this repository and propose changes** or **Update your Fork** to get an up to date version of the project to edit. The appropriate page in your fork is displayed in edit mode.
-1. Follow the rest of the [Quick start with Netlify](#quick-start-with-netlify) process above to make, preview, and propose your changes.
+You accept and agree to the following terms and conditions for Your present and future Contributions
+submitted to ONUG. Except for the license granted herein to ONUG and recipients of software distributed
+by ONUG, You reserve all right, title, and interest in and to Your Contributions.
 
-## Previewing your changes locally
+**1. Definitions.**
 
-If you want to run your own local Hugo server to preview your changes as you work:
+"You" (or "Your") shall mean the copyright owner or legal entity authorized by the copyright owner that
+is making this Agreement with ONUG. For legal entities, the entity making a Contribution and all other
+entities that control, are controlled by, or are under common control with that entity are considered to
+be a single Contributor. For the purposes of this definition, "control" means (i) the power, direct or
+indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii)
+ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such
+entity.
 
-1. Follow the instructions in [Getting started](/docs/getting-started) to install Hugo and any other tools you need. You'll need at least **Hugo version 0.84.1** (we recommend using the most recent available version), and it must be the **extended** version, which supports SCSS.
-1. Fork the [CSNF repo](https://github.com/pcampbe/csnf-doc) repo into your own project, then create a local copy using `git clone`. Don’t forget to use `--recurse-submodules` or you won’t pull down some of the code you need to generate a working site.
+"Contribution" shall mean the code, documentation or other original works of authorship, including any
+modifications or additions to an existing work, that is intentionally submitted by You to ONUG for inclusion
+in, or documentation of, any of the products owned or managed by the ONUG (the "Work"). For the
+purposes of this definition, "submitted" means any form of electronic, verbal, or written communication
+sent to ONUG or its representatives, including but not limited to communication on electronic mailing
+lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, ONUG
 
-    ```
-    git clone --recurse-submodules --depth 1 https://github.com/onug/CSNF-DOC.git
-    ```
 
-1. Run `hugo server` in the site root directory. By default your site will be available at http://localhost:1313/. Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
-1. Continue with the usual GitHub workflow to edit files, commit them, push the
-  changes up to your fork, and create a pull request.
+for the purpose of discussing and improving the Work, but excluding communication that is conspicuously
+marked or otherwise designated in writing by You as "Not a Contribution."
 
-## Creating an issue
+**2. Grant of Copyright License.**
 
-If you've found a problem in the docs, but you're not sure how to fix it yourself, please create an issue in the [CSNF repo](https://github.com/pcampbe/csnf-doc/issues). You can also create an issue about a specific page by clicking the **Create Issue** button in the top right hand corner of the page.
+Subject to the terms and conditions of this Agreement, You hereby grant to ONUG and to recipients of
+software distributed by ONUG a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense,
+and distribute Your Contributions and such derivative works.
 
-## Useful resources
+**3. Grant of Patent License.**
 
-* [Docsy user guide](https://www.docsy.dev/docs/): All about Docsy, including how it manages navigation, look and feel, and multi-language support.
-* [Hugo documentation](https://gohugo.io/documentation/): Comprehensive reference for Hugo.
-* [Github Hello World!](https://guides.github.com/activities/hello-world/): A basic introduction to GitHub concepts and workflow.
+Subject to the terms and conditions of this Agreement, You hereby grant to ONUG and to recipients of
+software distributed by ONUG a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+(except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and
+otherwise transfer the Work, where such license applies only to those patent claims licensable by You that
+are necessarily infringed by Your Contribution(s)alone or by combination of Your Contribution(s) with the
+Work to which such Contribution(s) were submitted. If any entity institutes patent litigation against You
+or any other entity (including a cross-claim or counterclaim in a lawsuit) alleging that your Contribution,
+or the Work to which you have contributed, constitutes direct or contributory patent infringement, then
+any patent licenses granted to that entity under this Agreement for that Contribution or Work shall
+terminate as of the date such litigation is filed.
+
+**4. Authorizations.**
+
+You represent that You are legally entitled to grant the above license. You represent further that each
+employee of the Corporation designated on Schedule A below (or in a subsequent written modification
+to that Schedule) is authorized to submit Contributions on behalf of the Corporation.
+
+**5. Original Work.**
+
+You represent that each of Your Contributions is Your original creation (see section 7 for submissions on
+behalf of others).
+
+**6. No Support; Warranty Disclaimer.**
+
+You are not expected to provide support for Your Contributions, except to the extent You desire to provide
+support. You may provide support for free, for a fee, or not at all. Unless required by applicable law or
+agreed to in writing, You provide Your Contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or
+conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
+
+**7. Contributions of Others.**
+
+Should You wish to submit work that is not Your original creation, You may submit it to ONUG separately
+from any Contribution, identifying the complete details of its source and of any license or other restriction
+(including, but not limited to, related patents, trademarks, and license agreements) of which you are
+personally aware, and conspicuously marking the work as "Submitted on behalf of a third-party: [named
+here]".
+
+
+**8. Designated Employees**.
+
+It is your responsibility to notify ONUG when any change is required to the list of designated employees
+authorized to submit Contributions on behalf of the Corporation, or to the Corporation's Point of Contact
+with ONUG.
+
+Corporation: _____________________________________________
+
+Please sign: ______________________________________________
+
+Title: ___________________________________________________
+
+Date: ___________________________________________________
+
+
+```
+Schedule A
+Designated Employees
+```
+[Please include the initial list of designated employees.]
+
+
+
+
 
 
