@@ -1,11 +1,11 @@
 ---
-title: "How to Contribute"
-linkTitle: "How to Contribute"
-weight: 10
+title: "Next Steps"
+linkTitle: "Next Steps"
+weight: 40
 description: >
 ---
 {{% pageinfo %}}
-*If you would like to contribute to the CSNF please review and please print and sign the Contributor's agreement and email a copy of this Agreement to Scott Kargman at scott@onug.net*
+*We need your ideas and feedback! If you would like to contribute to the CSNF please review and please print and sign the Contributor's agreement below and email to Scott Kargman at scott@onug.net*
 {{% /pageinfo %}}
 ```
 ONUG Contributor License Agreement
