@@ -8,7 +8,7 @@ description: >
 *To learn more about the CNSF please take a look at the links below!*
 {{% /pageinfo %}}
 
-<img src="/contribute.png" alt="Steps to Contribute" class="img-responsive">
+<img src="https://csnf.netlify.app/docs/images/contribute.png" alt="Steps to Contribute" class="img-responsive">
 
 
 
