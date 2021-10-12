@@ -1,6 +1,6 @@
 ---
-title: "Next Steps"
-linkTitle: "Next Steps"
+title: "Next Steps: Contribute!"
+linkTitle: "Next Steps: Contribute!"
 weight: 40
 description: >
 ---
