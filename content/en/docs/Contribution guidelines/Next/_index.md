@@ -5,7 +5,11 @@ weight: 40
 description: >
 ---
 {{% pageinfo %}}
-*We need your ideas and feedback! If you would like to contribute to the CSNF please review and please print and sign the Contributor's agreement below and email to Scott Kargman at scott@onug.net*
+
+*We need your ideas and feedback!*
+
+*If you would like to contribute to the CSNF, please review, print, and sign the Contributor's agreement below. Email the signed document to Scott Kargman at scott@onug.net*
+
 {{% /pageinfo %}}
 ```
 ONUG Contributor License Agreement
