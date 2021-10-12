@@ -1,6 +1,6 @@
 ---
 title: "Step Two: Dig into the Project Doco!"
-linkTitle: "Step Two: Dig into the Project Doco!"
+linkTitle: "Step Two"
 weight: 20
 description: >
 ---
