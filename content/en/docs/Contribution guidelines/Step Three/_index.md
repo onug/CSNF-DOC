@@ -1,5 +1,5 @@
 ---
-title: "Step Three"
+title: "Step Three - Download the Code!"
 linkTitle: "Step Three"
 weight: 30
 description: >
