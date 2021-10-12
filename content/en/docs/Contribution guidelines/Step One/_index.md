@@ -1,6 +1,6 @@
 ---
-title: "Step One - Explore the CSNF Repo!"
-linkTitle: "Step One"
+title: "Step One: Explore the CSNF Repo!"
+linkTitle: "Step One: Explore the CSNF Repo!"
 weight: 10
 description: >
 ---
