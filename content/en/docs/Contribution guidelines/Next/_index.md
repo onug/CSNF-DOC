@@ -12,6 +12,8 @@ description: >
 
 *Email the signed document to Scott Kargman at scott@onug.net*
 
+*(Need to include a PDF download link here)*
+
 {{% /pageinfo %}}
 ```
 ONUG Contributor License Agreement
