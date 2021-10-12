@@ -8,7 +8,9 @@ description: >
 
 *We need your ideas and feedback!*
 
-*If you would like to contribute to the CSNF, please review, print, and sign the Contributor's agreement below. Email the signed document to Scott Kargman at scott@onug.net*
+*If you would like to contribute to the CSNF, please review, print, and sign the Contributor's agreement below.* 
+
+*Email the signed document to Scott Kargman at scott@onug.net*
 
 {{% /pageinfo %}}
 ```
