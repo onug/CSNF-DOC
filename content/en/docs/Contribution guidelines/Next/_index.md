@@ -14,9 +14,11 @@ description: >
 
 {{% /pageinfo %}}
 
-
-[ONUG Contributor License Agreement in PDF format](<embed src="https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf" width="1000" height="375" 
- type="application/pdf">)
+<object data="https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf" type="application/pdf" width="1000" height="2000">
+    <embed src="https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ```
 ONUG Contributor License Agreement
