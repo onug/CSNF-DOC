@@ -138,7 +138,7 @@ Designated Employees
 ```
 ONUG Contributor License Agreement in PDF form:
 
-https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf
+[ONUG CSNF Contributor License Agreement](https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf)
 
 ```
 
