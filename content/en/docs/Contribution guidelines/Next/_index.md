@@ -12,9 +12,11 @@ description: >
 
 *Email the signed document to Scott Kargman at scott@onug.net*
 
-*(Need to include a PDF download link here)*
-
 {{% /pageinfo %}}
+
+```
+https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf
+
 ```
 ONUG Contributor License Agreement
 ```
