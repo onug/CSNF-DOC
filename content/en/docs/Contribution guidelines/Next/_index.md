@@ -15,9 +15,6 @@ description: >
 {{% /pageinfo %}}
 
 ```
-https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf
-
-```
 ONUG Contributor License Agreement
 ```
 In order to clarify the intellectual property license granted with Contributions (defined below in Section
@@ -138,7 +135,11 @@ Designated Employees
 [Please include the initial list of designated employees.]
 
 
+```
+ONUG Contributor License Agreement in PDF form:
 
+https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf
 
+```
 
 
