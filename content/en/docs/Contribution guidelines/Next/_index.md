@@ -14,6 +14,10 @@ description: >
 
 {{% /pageinfo %}}
 
+
+[ONUG Contributor License Agreement in PDF format](<embed src="https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf" width="1000" height="375" 
+ type="application/pdf">)
+
 ```
 ONUG Contributor License Agreement
 ```
@@ -136,10 +140,6 @@ Designated Employees
 
 ```
 
-ONUG Contributor License Agreement in PDF form
-
-<embed src="https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf" width="1000" height="375" 
- type="application/pdf">
 
 
 
