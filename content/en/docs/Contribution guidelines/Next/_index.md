@@ -8,15 +8,11 @@ description: >
 
 *We need your ideas and feedback!*
 
-*If you would like to contribute to the CSNF, please review, print, and sign the Contributor's agreement below.* 
+*If you would like to contribute to the CSNF, please review, print, and sign the Contributor License Agreement, available here <p>via <a href="https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf">downloading the PDF</a>, and further below via Markdown.</p>* 
 
 *Email the signed document to Scott Kargman at scott@onug.net*
 
 {{% /pageinfo %}}
-
-**View the CLA in PDF or Markdown**
-
-<p>For PDF goto: <a href="https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf">Download PDF</a>.</p>
 
 ```
 ONUG Contributor License Agreement
