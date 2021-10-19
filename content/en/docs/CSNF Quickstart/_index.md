@@ -10,3 +10,4 @@ description: >
 CSNF Quickstart: Coming Soon
 {{% /pageinfo %}}
 
+Join our growing Slack community to participate in the CSNF Conversation
