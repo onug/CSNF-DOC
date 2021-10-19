@@ -10,4 +10,4 @@ description: >
 CSNF Quickstart: Coming Soon
 {{% /pageinfo %}}
 
-Join our growing <a href="https://csnfonugslackcom.slack.com>Slack</a>" community to participate in the CSNF Conversation
+Join our growing <a href="https://csnfonugslackcom.slack.com">Slack</a>community to participate in the CSNF Conversation
