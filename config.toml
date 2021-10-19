@@ -193,9 +193,9 @@ enable = false
         desc = "Development takes place here!"
 [[params.links.developer]]
 	name = "Slack"
-	url = "https://onug.slack.com"
+	url = "https://csnfonugslackcom.slack.com"
 	icon = "fab fa-slack"
-        desc = "Chat with other project developers"
+        desc = "Chat with other CSNF project contributors"
 [[params.links.developer]]
 	name = "Developer mailing list"
 	url = "https://onug.net/csnf"
