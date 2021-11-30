@@ -1,9 +1,9 @@
 ---
-title: 'CSNF Demo'
-linkTitle: 'CSNF Demo'
+title: 'CSNF demo-service'
+linkTitle: 'CSNF demo-service'
 weight: 60
 description: >
-  The CSNF Demo known as the 'demo-service' is a Dockerized typescript application that provides minimal functionality so the security engineers and developers can get familiar with the CSNF Decorator.
+  The CSNF demo-service is a typescript application that provides minimal functionality to allow security researchers and security developers to become familiar with the CSNF Decorator. The application can be easily deployed using Docker. 
 ---
 
 {{% pageinfo %}}
@@ -14,7 +14,7 @@ Join our growing <a href="https://csnfonugslackcom.slack.com">Slack</a> communit
 
 # CSNF demo environment
 
-### CSNF demo-service
+### About the demo-service application
 The csnf demo-service now runs in docker. The best place to go for information on how to configure and run the CSNF demo environment would be to the github repo. To make use of the repo, you'll need to clone it locally - if you don't know how to do that, gee the Github [Cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) documentation.
 
 ### Pre-requisites for the demo-service
