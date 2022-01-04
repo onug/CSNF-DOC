@@ -1,12 +1,4 @@
----
-title: "CSNF Code of Conduct"
-linkTitle: "Code of Conduct"
-weight: 100
-description: >-
-     Covenant Contributor Code of Conduct
----
-
-# Contributor Covenant Code of Conduct
+# CSNF Code of Conduct
 
 ## Our Pledge
 
