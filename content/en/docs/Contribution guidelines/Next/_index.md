@@ -6,6 +6,8 @@ description: >
 ---
 {{% pageinfo %}}
 
+*Please begin by reading our <a href="https://github.com/onug/CSNF/blob/main/Covenant_Code_of_Conduct.md">Code of Conduct</a>.
+
 *We need your ideas and feedback!*
 
 *If you would like to contribute to the CSNF, please review, print, and sign the Contributor License Agreement, available here via <a href="https://github.com/onug/CSNF-DOC/blob/master/Onug%20-%20CLA%20_July%202021.pdf">PDF download</a>. The CLA document text can also be read immediately below.* 
