@@ -1,9 +1,10 @@
 ---
 title: "Contributor Code of Conduct"
-linkTitle: "Code of Conduct"
-weight: 30
+linkTitle: "Contributor Code of Conduct"
+weight: 50
 description: >
 ---
+{{% pageinfo %}}
 
 ## Our Pledge
 
