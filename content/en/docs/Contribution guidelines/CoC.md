@@ -1,11 +1,9 @@
 ---
-title: "Code of Conduct"
+title: "Contributor Code of Conduct"
 linkTitle: "Code of Conduct"
-weight: 40
+weight: 30
 description: >
 ---
-
-# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
