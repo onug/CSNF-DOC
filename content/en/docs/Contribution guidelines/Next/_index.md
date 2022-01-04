@@ -6,7 +6,7 @@ description: >
 ---
 {{% pageinfo %}}
 
-*Please begin by reading our <a href="https://github.com/onug/CSNF/blob/main/Covenant_Code_of_Conduct.md">Code of Conduct</a>.
+*Please begin by reading our <a href="https://github.com/onug/CSNF/blob/main/Covenant_Code_of_Conduct.md">Code of Conduct</a>.*
 
 *We need your ideas and feedback!*
 
