@@ -11,7 +11,8 @@ description: >
 *To learn more about the Cloud Security Notification Framework please step through the links below!*
 {{% /pageinfo %}}
 
-<img src="https://csnf.netlify.app/docs/images/contribute.png" alt="Steps to Contribute" class="img-responsive">
+### Contributing to the CSNF Decorator
+If you want to contribute to the repo, see the [CONTRIBUTING.md](https://github.com/onug/CSNF/blob/main/demo-service/CONTRIBUTING.md) file.
 
 
 

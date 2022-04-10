@@ -1,6 +1,6 @@
 ---
-title: 'CSNF demo-service'
-linkTitle: 'CSNF demo-service'
+title: 'CSNF demo-service (archived)'
+linkTitle: 'CSNF demo-service (archived)'
 weight: 60
 description: >
   The CSNF demo-service is a typescript application that provides minimal functionality to allow security researchers and security developers to become familiar with the CSNF Decorator. The application can be easily deployed using Docker. 
