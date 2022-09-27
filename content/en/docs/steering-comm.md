@@ -1,6 +1,6 @@
 ---
 title: "CSNF Steering Committee Membership"
-linkTitle: "Steer Comm"
+linkTitle: "Steering Committee"
 weight: 100
 description: >-
      Details the current CSNF Steering Committee Membership
